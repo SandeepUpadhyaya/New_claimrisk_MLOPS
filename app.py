@@ -3,6 +3,7 @@ import numpy as np
 import pickle
 import streamlit as st
 import joblib
+from sklearn.ensemble import RandomForestClassifier
 
 
 # loading the saved model
