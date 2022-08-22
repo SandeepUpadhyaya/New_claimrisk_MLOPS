@@ -35,7 +35,7 @@ def main():
     
     
     # giving a title
-    st.title('Insurance policy claim risk prediction Web App')
+    st.title('Insurance policy claim risk predictor Web App')
     
     
     # getting the input data from the user
