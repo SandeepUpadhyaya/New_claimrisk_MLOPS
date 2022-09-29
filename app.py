@@ -7,7 +7,7 @@ from sklearn.ensemble import RandomForestClassifier
 
 
 # loading the saved model
-loaded_model = joblib.load("rf.pkl")
+loaded_model = joblib.load("xg.pkl")
 
 
 # creating a function for Prediction
