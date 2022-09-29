@@ -7,7 +7,7 @@ from sklearn.ensemble import RandomForestClassifier
 
 st.header("Claim risk Prediction web-app by  Sandeep")
 # loading the saved model
-loaded_model = joblib.load("xg.pkl")
+loaded_model = joblib.load("rf.pkl")
 
 
 # creating a function for Prediction
